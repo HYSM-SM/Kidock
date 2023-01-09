@@ -1,3 +1,7 @@
+#  Unzip
+
+  > unzip Kidock-main.zip -d Kidock
+
 #  Compile in Linux
 
 ##  SingleGame
