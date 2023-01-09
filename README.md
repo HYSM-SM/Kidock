@@ -1,6 +1,6 @@
 #  Unzip
 
-  > unzip Kidock-main.zip -d Kidock
+  > unzip Kidock-main.zip; mv Kidock-main Kidock 
 
 #  Compile in Linux
 
